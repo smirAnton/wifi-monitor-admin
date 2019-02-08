@@ -1,0 +1,1 @@
+define({  "name": "wifi-monitor",  "version": "1.0.0",  "description": "Wifi monitor API",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2018-02-20T11:02:31.727Z",    "url": "http://apidocjs.com",    "version": "0.16.1"  }});

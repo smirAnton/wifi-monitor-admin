@@ -1,0 +1,8 @@
+node_modules
+public/build
+logs
+doc
+config
+coverage
+.idea
+.git

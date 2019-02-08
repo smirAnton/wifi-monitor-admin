@@ -1,0 +1,30 @@
+# exclude IDEA files
+.idea
+
+# exclude installed npm modules
+node_modules
+
+# exclude log files
+logs/*
+
+# exclude test coverage report
+coverage
+
+# exclude api documentation
+doc
+
+# exclude ndpiReader outputs
+server/monitor/nDpi/output
+
+
+# exclude configs
+# server/config/*.json
+
+# images
+public/images
+
+# exclude lock files
+package-lock.json
+
+# ftp config for work with remove server
+# .ftpconfig

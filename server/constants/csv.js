@@ -1,0 +1,81 @@
+export const CSV_NDPI_COLUMNS = [
+  'ndpi',
+  'ndpiService',
+  'ndpiCategory',
+  'differenceTimeConstrain',
+  'sentBytesConstrain',
+  'receivedBytesConstrain',
+  'startTimeConstrain',
+  'endTimeConstrain',
+  'dnsResponseIPConstrain',
+  'dnsResponseNameConstrain',
+  'deviceHostnameConstrain',
+  'dnsRequestConstrain',
+  'ndpiConstrain',
+  'portsConstrain',
+  'dnsRequestsConstrain',
+  'densityConstrain',
+  'bandwidthConstrain',
+  'dnsResponseIPsConstrain',
+  'dnsResponseNamesConstrain'
+];
+
+export const CSV_DNS_COLUMNS = [
+  'keyword',
+  'keywordService',
+  'keywordCategory',
+  'keywordSubcategory',
+  'differenceTimeConstrain',
+  'sentBytesConstrain',
+  'receivedBytesConstrain',
+  'startTimeConstrain',
+  'endTimeConstrain',
+  'dnsResponseIPConstrain',
+  'dnsResponseNameConstrain',
+  'deviceHostnameConstrain',
+  'dnsRequestConstrain',
+  'ndpiConstrain',
+  'portsConstrain',
+  'dnsRequestsConstrain',
+  'densityConstrain',
+  'bandwidthConstrain',
+  'dnsResponseIPsConstrain',
+  'dnsResponseNamesConstrain'
+];
+
+export const CSV_SUPER_COLUMNS = [
+  'keyword',
+  'ndpi',
+  'superService',
+  'superCategory',
+  'superSubcategory',
+  'differenceTimeConstrain',
+  'sentBytesConstrain',
+  'receivedBytesConstrain',
+  'startTimeConstrain',
+  'endTimeConstrain',
+  'dnsResponseIPConstrain',
+  'dnsResponseNameConstrain',
+  'deviceHostnameConstrain',
+  'dnsRequestConstrain',
+  'ndpiConstrain',
+  'portsConstrain',
+  'dnsRequestsConstrain',
+  'densityConstrain',
+  'bandwidthConstrain',
+  'dnsResponseIPsConstrain',
+  'dnsResponseNamesConstrain'
+];
+
+export const CSV_CATEGORIES_COLUMNS = [
+  'name',
+  'bandwidthConstrain',
+  'sentBytesConstrain',
+  'receivedBytesConstrain',
+  'upArrowPercent',
+  'downArrowPercent',
+  'sentLightThreshold',
+  'sentBoldThreshold',
+  'receivedLightThreshold',
+  'receivedBoldThreshold'
+];
